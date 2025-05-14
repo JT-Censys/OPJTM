@@ -1,0 +1,10 @@
+{
+  "apiToken": "",
+  "jiraUrl": "",
+  "username": "",
+  "epicLinkFieldId": "",
+  "sprintFieldId": "",
+  "jiraBoardId": "",
+  "dueDateFieldId": "",
+  "storyPointsFieldId": ""
+}
