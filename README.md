@@ -1,4 +1,4 @@
-# OPJTM
+# OP: JTM
 Obsidian Plugin: Jira Ticket Management
 
 I made this thing with a lot of trial and error with AI.
